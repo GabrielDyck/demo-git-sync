@@ -1057,7 +1057,7 @@
         ]
       },
       "timezone": "browser",
-      "title": "Runtime / Go Processes",
+      "title": "Runtime / Go Processes - Update",
       "uid": "Go-Processes-Update",
-      "version": 2
+      "version": 3
     }
